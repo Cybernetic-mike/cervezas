@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cervezas/static/css/main.7ac2ee2b.css",
-    "main.js": "/cervezas/static/js/main.a6368bee.js",
+    "main.js": "/cervezas/static/js/main.4fc75e9e.js",
     "static/js/453.9a91938b.chunk.js": "/cervezas/static/js/453.9a91938b.chunk.js",
     "static/media/bannerCerveza.jpg": "/cervezas/static/media/bannerCerveza.0ea10a61d1158228077d.jpg",
     "index.html": "/cervezas/index.html",
     "main.7ac2ee2b.css.map": "/cervezas/static/css/main.7ac2ee2b.css.map",
-    "main.a6368bee.js.map": "/cervezas/static/js/main.a6368bee.js.map",
+    "main.4fc75e9e.js.map": "/cervezas/static/js/main.4fc75e9e.js.map",
     "453.9a91938b.chunk.js.map": "/cervezas/static/js/453.9a91938b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ac2ee2b.css",
-    "static/js/main.a6368bee.js"
+    "static/js/main.4fc75e9e.js"
   ]
 }
