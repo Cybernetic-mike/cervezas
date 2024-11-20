@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/cervezas/static/css/main.7ac2ee2b.css",
-    "main.js": "/cervezas/static/js/main.4fc75e9e.js",
+    "main.css": "/cervezas/static/css/main.d606a96f.css",
+    "main.js": "/cervezas/static/js/main.d9cfaeae.js",
     "static/js/453.9a91938b.chunk.js": "/cervezas/static/js/453.9a91938b.chunk.js",
+    "static/media/Carnaval.png": "/cervezas/static/media/Carnaval.78ad96e041fc9da495d4.png",
     "static/media/bannerCerveza.jpg": "/cervezas/static/media/bannerCerveza.0ea10a61d1158228077d.jpg",
+    "static/media/fiestas.jpg": "/cervezas/static/media/fiestas.3e4c1bc62718b2d6d0c1.jpg",
+    "static/media/botellas.jpg": "/cervezas/static/media/botellas.58f8ad97262c0e731556.jpg",
+    "static/media/logoCerveza.jpg": "/cervezas/static/media/logoCerveza.e5109012953d267ac3b5.jpg",
     "index.html": "/cervezas/index.html",
-    "main.7ac2ee2b.css.map": "/cervezas/static/css/main.7ac2ee2b.css.map",
-    "main.4fc75e9e.js.map": "/cervezas/static/js/main.4fc75e9e.js.map",
+    "main.d606a96f.css.map": "/cervezas/static/css/main.d606a96f.css.map",
+    "main.d9cfaeae.js.map": "/cervezas/static/js/main.d9cfaeae.js.map",
     "453.9a91938b.chunk.js.map": "/cervezas/static/js/453.9a91938b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ac2ee2b.css",
-    "static/js/main.4fc75e9e.js"
+    "static/css/main.d606a96f.css",
+    "static/js/main.d9cfaeae.js"
   ]
 }
