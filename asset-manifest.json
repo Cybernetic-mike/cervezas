@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cervezas/static/css/main.d606a96f.css",
-    "main.js": "/cervezas/static/js/main.6f87d03c.js",
+    "main.js": "/cervezas/static/js/main.f4a2aece.js",
     "static/js/453.9a91938b.chunk.js": "/cervezas/static/js/453.9a91938b.chunk.js",
     "static/media/Carnaval.png": "/cervezas/static/media/Carnaval.78ad96e041fc9da495d4.png",
     "static/media/bannerCerveza.jpg": "/cervezas/static/media/bannerCerveza.0ea10a61d1158228077d.jpg",
@@ -10,11 +10,11 @@
     "static/media/logoCerveza.jpg": "/cervezas/static/media/logoCerveza.e5109012953d267ac3b5.jpg",
     "index.html": "/cervezas/index.html",
     "main.d606a96f.css.map": "/cervezas/static/css/main.d606a96f.css.map",
-    "main.6f87d03c.js.map": "/cervezas/static/js/main.6f87d03c.js.map",
+    "main.f4a2aece.js.map": "/cervezas/static/js/main.f4a2aece.js.map",
     "453.9a91938b.chunk.js.map": "/cervezas/static/js/453.9a91938b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d606a96f.css",
-    "static/js/main.6f87d03c.js"
+    "static/js/main.f4a2aece.js"
   ]
 }
